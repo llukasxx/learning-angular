@@ -20,6 +20,8 @@ gem 'jbuilder', '~> 1.2'
 gem 'bower-rails'
 gem 'angular-rails-templates'
 
+gem 'sprockets', '2.12.3'
+
 gem 'sass', '3.2.19' 
 
 gem "foreman"
